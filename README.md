@@ -12,7 +12,7 @@
 
 ## 📝Introducción
 
-**Webmin** es una herramienta de administración web que permite gestionar servidores Linux a través de una interfaz gráfica basada en navegador. Su objetivo principal es facilitar la configuración del sistema, eliminando la necesidad de editar archivos de texto manualmente o usar comandos de consola para tareas administrativas comunes.
+**Webmin** es una herramienta de administración web que permite gestionar servidores Linux a través de una interfaz gráfica basada en navegador. Su principal función es evitar la interacción desde la consola y facilitar procesos por medio de ventanas, para aquellos usuarios que prefieren el uso desde una interfaz gráfica.
 
 ---
 
@@ -62,10 +62,19 @@ Se agrego el módulo seleccionado. Luego, se presiona el botón `Install Module`
 
 ![Captura de instalación de Webmin](https://github.com/jpunalesg/ModulosExternosWebminUMG/blob/08898f693b24f910d43053afe560befad4a6acf5/IMG%207%20-%20Instalacion%20de%20modulo%20externo.png)
 
+
+### 8. Anexos
+
+Se procedió con una explicación técnica por medio de video demostrativo de módulos externos.
+
+ENLACE: [Enlace de Video Explicativo](https://youtu.be/0NQcmzH_BfM).
+
 ---
 
 ## ✅Conclusión
 
----
+Gracias al gran apoyo de la comunidad es posible el desarrollo de módulos externos, capaces de agregar funcionalidades adicionales o mejoras al servidor en Webmin que permiten mejorar la experiencia del usuario. Además, la compatibilidad es clave para que sea posible instalar estos módulos y la actualización recurrente para tener las versiones más actualizadas.
 
-## 💡Observaciones adicionales
+Tuve la oportunidad de aprender a instalar módulos externos, que abren un mundo de posibulidades en uso de herramientas, mejorando puntos como rendimineto, personalización, optimización de recursos, procesos de automatización.
+
+---
